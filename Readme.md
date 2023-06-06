@@ -1,1 +1,1 @@
-Novo projeto refente a alura plus que fiz na aula
+Novo projeto refente a alura plus que fiz na aula, e como por o projeto no ar
